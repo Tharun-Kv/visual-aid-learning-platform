@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Visual Aid Learning Platform (Streamlit)
 
 A feature-rich, accessibility-first visual learning assistant built with Python and many popular libraries.
@@ -34,3 +35,6 @@ streamlit run app_streamlit.py
 - If GPU is available, PyTorch will accelerate the models automatically.
 - Tesseract is **not required** (we use EasyOCR).
 - You can switch models in the sidebar > "Models & Settings".
+=======
+# visual-aid-learing-platform
+>>>>>>> acd63555eef5dd8507ddcadf2e5708b4fcfe19af
